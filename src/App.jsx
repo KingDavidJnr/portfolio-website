@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "David Oduse",
-  title: "Software Enigineer (Backend)",
+  title: "Software Engineer (Backend)",
   email: "odusedavid@gmail.com",
   gitHub: "KingDavidJnr",
   instagram: "King_david_jnrr",
