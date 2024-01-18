@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "David Oduse Portfolio website",
   "source": "src/index.html",
-  "homepage": "http://KingDavidJnr.github.io/portfolio",
+  "homepage": "http://KingDavidJnr.github.io/portfolio-website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://KingDavidJnr.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://KingDavidJnr.github.io/portfolio-website'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
